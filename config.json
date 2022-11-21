@@ -1,0 +1,14 @@
+{
+  "type": 0,
+
+  "name": "Envshort",
+  "description": "A simple private URL shortener powered by Nim.",
+
+  "port":  8080,
+  "debug": false,
+
+  "urls": {
+    "example": "https://example.com/",
+    "test": "https://example.org/"
+  }
+}
