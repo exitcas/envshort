@@ -4,8 +4,8 @@ A simple private URL shortener powered by [Nim](https://nim-lang.org/).
 
 ## Demo
 Want to see it working? Take a look at our [demo](https://envshort.atico.eu.org/).
-- [/example](https://envshort.atico.ga/example)
-- [/test](https://envshort.atico.ga/test)
+- [/example](https://envshort.atico.eu.org/example)
+- [/test](https://envshort.atico.eu.org/test)
 
 ## Install
 ### Getting ready the environment.
